@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+tensorflow-macos
+tensorflow-metal
+statsmodels
+pandas_ta
+pyportfolioopt
+scikit-learn
